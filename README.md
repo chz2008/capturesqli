@@ -1,8 +1,5 @@
 # capturesqli
-利用流量工具，抓取流量层面的sql注入、高危命令等等攻击
-
-编写抓包的代码，编译然后运行：
-我设置的是抓所有端口的包：
+利用流量工具，手搓一个抓取流量层面的sql注入、高危命令等等攻击工具
 
 ![图片](https://github.com/user-attachments/assets/44e39b21-e97b-4f06-92f9-d004838ffb16)
 
